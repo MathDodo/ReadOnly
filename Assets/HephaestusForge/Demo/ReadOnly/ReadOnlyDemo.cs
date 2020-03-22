@@ -2,6 +2,9 @@
 
 namespace HephaestusForge.ReadOnly
 {
+    /// <summary>
+    /// This is just a demo class and can be deleted
+    /// </summary>
     public class ReadOnlyDemo : MonoBehaviour
     {
 #pragma warning disable 0649
